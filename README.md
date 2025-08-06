@@ -1,4 +1,4 @@
-# 💕 Coffee Shop Sales Analysis Dashboard - Excel Project
+# 💕 Coffee Shop Sales Data Analysis Dashboard - Excel Project
 
 ## 📊 Project Overview
 
