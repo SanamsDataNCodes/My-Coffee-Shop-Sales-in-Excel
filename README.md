@@ -72,7 +72,8 @@ The Coffee Shop management wants a comprehensive view of their **sales performan
 
 ## 📈 Dashboard Preview
 
-> *You can add a screenshot here after uploading the dashboard image file.*
+![CoffeeShopSales_Screenshot](https://github.com/user-attachments/assets/56dc3b85-e9c5-463f-9dba-530b01ef5b49)
+
 
 ## 💡 Key Learnings
 
